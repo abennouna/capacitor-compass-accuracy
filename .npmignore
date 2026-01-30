@@ -1,0 +1,23 @@
+# Don't publish source files
+src/
+*.ts
+!*.d.ts
+
+# Don't publish dev files
+tsconfig.json
+rollup.config.js
+.editorconfig
+.eslintrc.json
+.prettierrc.json
+
+# Don't publish build artifacts
+android/build/
+android/.gradle/
+ios/Pods/
+ios/.build/
+ios/build/
+
+# Don't publish tests
+tests/
+*.spec.ts
+*.test.ts

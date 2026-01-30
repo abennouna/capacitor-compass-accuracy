@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+*.tgz
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# Android
+android/build/
+android/.gradle/
+android/local.properties
+android/.idea/
+android/*.iml
+
+# iOS
+ios/Pods/
+ios/.build/
+ios/build/
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+
+# Temporary files
+*.tmp
+.tmp/
