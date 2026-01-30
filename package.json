@@ -1,6 +1,6 @@
 {
   "name": "@abennouna/capacitor-compass-accuracy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Capacitor plugin for Android to monitor the accuracy of the device compass.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
