@@ -4,7 +4,7 @@ export default {
     {
       file: 'dist/plugin.js',
       format: 'iife',
-      name: 'capacitorCompassAccuracy',
+      name: 'compassAccuracy',
       globals: {
         '@capacitor/core': 'capacitorExports',
       },
