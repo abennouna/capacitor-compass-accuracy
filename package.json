@@ -57,7 +57,7 @@
     "@ionic/prettier-config": "4.0.0",
     "@ionic/swiftlint-config": "2.0.0",
     "eslint": "8.57.1",
-    "npm-check-updates": "22.2.7",
+    "npm-check-updates": "22.2.8",
     "prettier": "3.8.5",
     "prettier-plugin-java": "2.10.1",
     "rimraf": "6.1.3",
