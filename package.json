@@ -49,7 +49,7 @@
     "prepublishOnly": "npm run build"
   },
   "overrides": {
-    "brace-expansion@>=1.0.0 <1.1.17": "1.1.17"
+    "brace-expansion@>=1.0.0 <1.1.18": "1.1.18"
   },
   "devDependencies": {
     "@capacitor/android": "8.4.2",
