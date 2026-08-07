@@ -52,7 +52,7 @@
     "brace-expansion@>=1.0.0 <1.1.18": "1.1.18"
   },
   "devDependencies": {
-    "@capacitor/android": "8.4.2",
+    "@capacitor/android": "8.5.0",
     "@capacitor/core": "8.4.2",
     "@capacitor/docgen": "0.3.1",
     "@capacitor/ios": "8.4.2",
